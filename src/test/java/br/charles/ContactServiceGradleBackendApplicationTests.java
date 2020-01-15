@@ -1,13 +1,13 @@
-package br.charles;
+// package br.charles;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ContactServiceGradleBackendApplicationTests {
+// @SpringBootTest
+// class ContactServiceGradleBackendApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }

@@ -1,7 +1,5 @@
 package br.charles.model;
 
-import javax.persistence.Entity;
-
 import lombok.Data;
 
 @Data

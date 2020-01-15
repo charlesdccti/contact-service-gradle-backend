@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import antlr.collections.List;
 import br.charles.model.Mongo;
 
 @CrossOrigin
@@ -21,7 +20,6 @@ public class CalculoController {
 	
 	private String resultado;
 	private Double imc;
-	private Double altura;
 
 	//--> lista para simulaçao de mongodb
 	private ArrayList<Mongo> mongodb = new ArrayList<Mongo>();
